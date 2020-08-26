@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48143643187",
+    "firebase_url": "https://rifa-e19dc.firebaseio.com",
+    "project_id": "rifa-e19dc",
+    "storage_bucket": "rifa-e19dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48143643187:android:83eade534c3d40f1806946",
+        "android_client_info": {
+          "package_name": "com.rifa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48143643187-mkirfsa88b5s6tg8jvce2v2ol5bv46bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlainjYU_P9GMQBy9F0nFWKDUS4Nb1few"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48143643187-mkirfsa88b5s6tg8jvce2v2ol5bv46bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
