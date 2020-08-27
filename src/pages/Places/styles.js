@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     color: '#fff',
     fontStyle: 'italic',
-  }
+  },
 });
 
 export default styles;
