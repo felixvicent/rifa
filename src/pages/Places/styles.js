@@ -19,6 +19,11 @@ const styles = StyleSheet.create({
     color: '#fff',
     fontStyle: 'italic',
   },
+  headerButtons: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+  }
 });
 
 export default styles;
