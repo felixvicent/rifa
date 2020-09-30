@@ -39,6 +39,8 @@ export default function Places() {
           }
         })
       })
+
+      setLoading(false);
     }
 
     loadList();
