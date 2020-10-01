@@ -28,7 +28,7 @@ export default function Places() {
         setUsers([]);
 
         snapshot.forEach(childItem => {
-          if (childItem.key > 0) {
+          if (childItem.key > 0 && childItem.val()) {
             let list = {
               place: childItem.key,
               name: childItem.val().name,
